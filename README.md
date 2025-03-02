@@ -40,9 +40,6 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/praveen-kumar-957b5123b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
   <a href="mailto:kumarpraveen215342@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
