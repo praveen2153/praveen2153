@@ -6,7 +6,7 @@
   <img src="YOUR_IMAGE_URL" alt="Profile Banner" width="600px">
 </p>
 
-<h3 align="center">🚀 Final Year B.Tech Student | IIT Delhi | Aspiring Data Analyst & Scientist</h3>
+<h3 align="center">🚀 Final Year B.Tech Student | IIT Delhi | Aspiring Data Analyst</h3>
 
 ---
 
@@ -14,8 +14,8 @@
 - 🎓 Pursuing **B.Tech** from **IIT Delhi**  
 - 📊 Passionate about **Analytics, Data Science, and Product Management**  
 - 🛠 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**  
-- 💼 Worked on **Diwali Sales, Netflix Dataset, and Pizza Sales Analysis Projects**  
-- 🎯 Preparing for **Data Analyst, Associate Product Manager, and Consulting Roles**  
+- 💼 Worked on **Diwali Sales, coffee sales Analysis and Pizza Sales Analysis Projects**  
+- 🎯 Preparing for **Data Analyst, Product Analyst,Bussiness Analyst, Associate Product Manager, and Consulting Roles**  
 
 ---
 
