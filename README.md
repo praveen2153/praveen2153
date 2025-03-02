@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**praveen2153/praveen2153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Praveen Kumar 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Profile Banner" width="600px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🚀 Final Year B.Tech Student | IIT Delhi | Aspiring Data Analyst & Scientist</h3>
+
+---
+
+### 💡 About Me
+- 🎓 Pursuing **B.Tech** from **IIT Delhi**  
+- 📊 Passionate about **Analytics, Data Science, and Product Management**  
+- 🛠 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**  
+- 💼 Worked on **Diwali Sales, Netflix Dataset, and Pizza Sales Analysis Projects**  
+- 🎯 Preparing for **Data Analyst, Associate Product Manager, and Consulting Roles**  
+
+---
+
+### 🔧 Tech Stack
+- 💻 **Languages:** Python, SQL  
+- 📊 **Analytics & BI Tools:** Excel, Power BI, Tableau  
+- 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- 📦 **Other Tools:** Git, Jupyter Notebook  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+⭐️ *Let's collaborate and build something awesome together!* 🚀  
+
