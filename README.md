@@ -2,50 +2,68 @@
 
 <h1 align="center">Hi there, I'm Praveen Kumar 👋</h1>
 
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=praveen2153&color=blue)](https://github.com/praveen2153)
+
+---
+
+## 🚀 About Me
+
+🎓 **IIT Delhi Student** | 📊 **Aspiring Data Analyst ,Business Analyst and Product Analyst** | 🏆 **Tech Enthusiast**
+
+🔹 Passionate about **Data Analysis and Product Strategy**  
+🔹 Love working on **SQL, Python, Power BI, and Data Visualization**  
+🔹 Currently seeking **exciting opportunities** in **Analytics, and Product Management**
+
+---
+
+## 📈 My GitHub Stats
+
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Profile Banner" width="600px">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen2153&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen2153&theme=radical" alt="GitHub Streak" width="48%">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveen2153&style=flat-square&color=blue" alt="Profile Views">
+</p>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
-<h3 align="center">🚀 Final Year B.Tech Student | IIT Delhi | Aspiring Data Analyst</h3>
+---
+
+## 📌 Featured Projects
+
+### 🔹 **[Diwali Sales Analysis](https://github.com/praveen2153/diwali-sales-analysis)**  
+🔍 **Tech Used**: Python, Pandas, Seaborn, Matplotlib  
+📊 **Insights**: Analyzed customer behavior during festive sales and visualized trends
+
+
+### 🔹 **[Pizza Sales SQL Analysis](https://github.com/praveen2153/pizza-sales-sql-analysis)**  
+🍕 **Tech Used**: SQL, Power BI, Excel  
+📌 **Insights**: Used SQL queries and visualizations to optimize pizza sales performance
 
 ---
 
-### 💡 About Me
-- 🎓 Pursuing **B.Tech** from **IIT Delhi**  
-- 📊 Passionate about **Analytics, Data Science, and Product Management**  
-- 🛠 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**  
-- 💼 Worked on **Diwali Sales, coffee sales Analysis and Pizza Sales Analysis Projects**  
-- 🎯 Preparing for **Data Analyst, Product Analyst,Bussiness Analyst, Associate Product Manager, and Consulting Roles**  
-
----
-
-### 🔧 Tech Stack
-- 💻 **Languages:** Python, SQL  
-- 📊 **Analytics & BI Tools:** Excel, Power BI, Tableau  
-- 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- 📦 **Other Tools:** Git, Jupyter Notebook  
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-### 📫 Connect With Me
-<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar-957b5123b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="mailto:kumarpraveen215342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-⭐️ *Let's collaborate and build something awesome together!* 🚀  
-
+⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐
