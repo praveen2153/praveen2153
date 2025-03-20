@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/praveen-kumar-957b5123b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:kumarpraveen215342@gmail.com">
+  <a href="mailto:praveenkumar215342@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
