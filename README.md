@@ -3,8 +3,6 @@
 <h1 align="center">Hi there, I'm Praveen Kumar 👋</h1>
 
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=praveen2153&color=blue)](https://github.com/praveen2153)
-
 ---
 
 ## 🚀 About Me
