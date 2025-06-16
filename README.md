@@ -1,57 +1,43 @@
+# 👋 Hi, I'm Praveen Kumar
 
+Welcome to my GitHub!
 
-<h1 align="center">Hi there, I'm Praveen Kumar 👋</h1>
+🎯 I’m a passionate and growth-oriented **Junior Business Intelligence Analyst at Pulp Strategy**, where I work on data-driven solutions that empower business decision-making.
 
+## 💼 Professional Snapshot
 
----
+- 🧠 Currently working on **AI tool integration, data testing**, and **intelligence dashboards** to align business goals with data strategy.
+- 📊 Experienced in **SQL, Power BI, Excel**, and **Python for Data Analysis**, with a strong focus on real-world business applications.
+- ✅ Certified in:
+  - SQL for Data Analysis
+  - Power BI Essentials
+  - Data Analysis with ChatGPT
+- 🧑‍🎓 Graduate from **IIT Delhi**, with coursework in Game Theory, Data Analysis, and Business Strategy.
 
-## 🚀 About Me
+## 📂 Featured Projects
 
-🎓 **IIT Delhi Student** | 📊 **Aspiring Data Analyst ,Business Analyst and Product Analyst** | 🏆 **Tech Enthusiast**
+- 🔍 **Netflix Data Analysis**  
+  Explored user trends, cleaned and visualized data to extract meaningful patterns in viewer behavior.
 
-🔹 Passionate about **Data Analysis and Product Strategy**  
-🔹 Love working on **SQL, Python, Power BI, and Data Visualization**  
-🔹 Currently seeking **exciting opportunities** in **Analytics, and Product Management**
+- 📦 **Diwali Sales Insights**  
+  Analyzed sales data to understand customer behavior, peak times, and top-selling products during the festive season.
 
----
+- 🍕 **Pizza Sales Dashboard (SQL + Power BI)**  
+  End-to-end analysis of ordering patterns, peak hours, and top products, presented with an interactive dashboard.
 
+## 💡 What I'm Currently Exploring
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **[Diwali Sales Analysis](https://github.com/praveen2153/diwali-sales-analysis)**  
-🔍 **Tech Used**: Python, Pandas, Seaborn, Matplotlib  
-📊 **Insights**: Analyzed customer behavior during festive sales and visualized trends
-
-
-### 🔹 **[Pizza Sales SQL Analysis](https://github.com/praveen2153/pizza-sales-sql-analysis)**  
-🍕 **Tech Used**: SQL, Power BI, Excel  
-📌 **Insights**: Used SQL queries and visualizations to optimize pizza sales performance
-
----
+- Testing how websites can integrate with AI platforms like **ChatGPT, Gemini, and Perplexity**.
+- Automating data workflows and improving dashboard performance.
+- Business intelligence tools for marketing and operations.
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveen-kumar-957b5123b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:praveenkumar215342@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 📧 Email: [praveenkumar215342@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/praveen-kumar215342]
 
 ---
 
-⭐ **Feel free to explore my repositories and drop a star if you find something interesting!** ⭐
+> "Turning data into decisions and insights into impact."
+
+Thanks for stopping by! ⭐️
