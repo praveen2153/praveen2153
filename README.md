@@ -1,43 +1,86 @@
-# 👋 Hi, I'm Praveen Kumar
+👋 Hi, I'm Praveen Kumar
+🚀 Business Intelligence Analyst | Data Analyst | AI & Automation Enthusiast
 
 Welcome to my GitHub!
 
-🎯 I’m a passionate and growth-oriented **Junior Business Intelligence Analyst at Pulp Strategy**, where I work on data-driven solutions that empower business decision-making.
+🚀 I’m a data-driven Business Intelligence & Data Analyst passionate about solving real-world business problems using analytics, automation, and AI.
 
-## 💼 Professional Snapshot
+💼 Professional Snapshot
 
-- 🧠 Currently working on **AI tool integration, data testing**, and **intelligence dashboards** to align business goals with data strategy.
-- 📊 Experienced in **SQL, Power BI, Excel**, and **Python for Data Analysis**, with a strong focus on real-world business applications.
-- ✅ Certified in:
-  - SQL for Data Analysis
-  - Power BI Essentials
-  - Data Analysis with ChatGPT
-- 🧑‍🎓 Graduate from **IIT Delhi**, with coursework in Game Theory, Data Analysis, and Business Strategy.
+🎯 Currently working as a Junior Business Intelligence Analyst at Pulp Strategy, contributing to data-driven decision-making and business insights.
 
-## 📂 Featured Projects
+📊 Strong hands-on experience in SQL, Power BI, Excel, and Python, focused on practical business applications.
 
-- 🔍 **Netflix Data Analysis**  
-  Explored user trends, cleaned and visualized data to extract meaningful patterns in viewer behavior.
+🤖 Actively working on AI integrations, automation (n8n workflows), and data testing to improve operational efficiency.
 
-- 📦 **Diwali Sales Insights**  
-  Analyzed sales data to understand customer behavior, peak times, and top-selling products during the festive season.
+📈 Interested in business analytics, product insights, and operations optimization (similar to roles like Amazon Freight & Blinkit category analytics).
 
-- 🍕 **Pizza Sales Dashboard (SQL + Power BI)**  
-  End-to-end analysis of ordering patterns, peak hours, and top products, presented with an interactive dashboard.
+🧠 Core Skills
 
-## 💡 What I'm Currently Exploring
+Data Analysis & BI: SQL, Power BI, Excel
 
-- Testing how websites can integrate with AI platforms like **ChatGPT, Gemini, and Perplexity**.
-- Automating data workflows and improving dashboard performance.
-- Business intelligence tools for marketing and operations.
+Programming: Python (Pandas, NumPy – basics to intermediate)
 
-## 📫 Connect With Me
+Data Visualization: Dashboard design, KPI tracking
 
-- 📧 Email: [praveenkumar215342@gmail.com]
-- 🔗 LinkedIn: [www.linkedin.com/in/praveen-kumar215342]
+Tools & Concepts:
 
----
+Data Cleaning & Transformation
 
-> "Turning data into decisions and insights into impact."
+Business Metrics & Reporting (WBR, dashboards)
 
-Thanks for stopping by! ⭐️
+Workflow Automation (n8n)
+
+AI Tools Integration (ChatGPT, Gemini, Perplexity)
+
+📂 Featured Projects
+
+🔍 Netflix Data Analysis
+Performed end-to-end data cleaning, analysis, and visualization to uncover viewer behavior trends.
+
+📦 Diwali Sales Analysis
+Identified customer purchasing patterns, peak sales periods, and high-performing categories.
+
+🍕 Pizza Sales Dashboard (SQL + Power BI)
+Built an interactive dashboard showcasing revenue trends, peak hours, and top-selling products.
+
+⚙️ Automation Workflows (n8n)
+Designed automated data pipelines and AI-based agents to streamline processes and improve efficiency.
+
+💡 What I'm Currently Exploring
+
+🤖 AI + Business: Integrating AI tools into real-world workflows
+
+📊 Advanced dashboarding & performance optimization
+
+🔄 Automation of reporting and business processes
+
+📦 Data analytics in logistics, e-commerce, and operations
+
+🎯 Career Focus
+
+I aim to grow into roles like:
+
+Business Analyst
+
+Data Analyst
+
+Business Intelligence Analyst
+
+Product Analyst
+
+with a strong focus on impact-driven analytics and decision-making.
+
+📫 Connect With Me
+
+📧 Email: praveenkumar215342@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/praveen-kumar215342
+
+✨ Fun Fact
+
+I enjoy turning complex data into simple, actionable insights and building systems that actually make business processes smarter 🚀
+
+"Turning data into decisions and insights into impact."
+
+⭐ If you like my work, feel free to explore my repositories and connect!
