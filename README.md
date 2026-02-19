@@ -34,17 +34,20 @@ Workflow Automation (n8n)
 AI Tools Integration (ChatGPT, Gemini, Perplexity)
 
 📂 Featured Projects
-
 🔍 Netflix Data Analysis
+
 Performed end-to-end data cleaning, analysis, and visualization to uncover viewer behavior trends.
 
 📦 Diwali Sales Analysis
+
 Identified customer purchasing patterns, peak sales periods, and high-performing categories.
 
 🍕 Pizza Sales Dashboard (SQL + Power BI)
+
 Built an interactive dashboard showcasing revenue trends, peak hours, and top-selling products.
 
 ⚙️ Automation Workflows (n8n)
+
 Designed automated data pipelines and AI-based agents to streamline processes and improve efficiency.
 
 💡 What I'm Currently Exploring
