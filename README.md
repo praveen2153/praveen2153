@@ -1,11 +1,11 @@
-👋 Hi, I'm Praveen Kumar
-🚀 Business Intelligence Analyst | Data Analyst | AI & Automation Enthusiast
+# 👋 Hi, I'm Praveen Kumar  
+## 🚀 Business Intelligence Analyst | Data Analyst | AI & Automation Enthusiast  
 
 Welcome to my GitHub!
 
 🚀 I’m a data-driven Business Intelligence & Data Analyst passionate about solving real-world business problems using analytics, automation, and AI.
 
-💼 Professional Snapshot
+## 💼 Professional Snapshot
 
 🎯 Currently working as a Junior Business Intelligence Analyst at Pulp Strategy, contributing to data-driven decision-making and business insights.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub!
 
 📈 Interested in business analytics, product insights, and operations optimization (similar to roles like Amazon Freight & Blinkit category analytics).
 
-🧠 Core Skills
+## 🧠 Core Skills
 
 Data Analysis & BI: SQL, Power BI, Excel
 
@@ -33,7 +33,7 @@ Workflow Automation (n8n)
 
 AI Tools Integration (ChatGPT, Gemini, Perplexity)
 
-📂 Featured Projects
+## 📂 Featured Projects
 🔍 Netflix Data Analysis
 
 Performed end-to-end data cleaning, analysis, and visualization to uncover viewer behavior trends.
@@ -50,7 +50,7 @@ Built an interactive dashboard showcasing revenue trends, peak hours, and top-se
 
 Designed automated data pipelines and AI-based agents to streamline processes and improve efficiency.
 
-💡 What I'm Currently Exploring
+## 💡 What I'm Currently Exploring
 
 🤖 AI + Business: Integrating AI tools into real-world workflows
 
@@ -60,7 +60,7 @@ Designed automated data pipelines and AI-based agents to streamline processes an
 
 📦 Data analytics in logistics, e-commerce, and operations
 
-🎯 Career Focus
+## 🎯 Career Focus
 
 I aim to grow into roles like:
 
@@ -74,13 +74,13 @@ Product Analyst
 
 with a strong focus on impact-driven analytics and decision-making.
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: praveenkumar215342@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/praveen-kumar215342
 
-✨ Fun Fact
+## ✨ Fun Fact
 
 I enjoy turning complex data into simple, actionable insights and building systems that actually make business processes smarter 🚀
 
