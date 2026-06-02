@@ -78,7 +78,7 @@ with a strong focus on impact-driven analytics and decision-making.
 
 📧 Email: praveenkumar215342@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/praveen-kumar215342
+🔗 LinkedIn: https://www.linkedin.com/in/praveen-kumar-analytics/
 
 ## ✨ Fun Fact
 
