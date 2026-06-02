@@ -1,89 +1,111 @@
-# 👋 Hi, I'm Praveen Kumar  
-## 🚀 Business Intelligence Analyst | Data Analyst | AI & Automation Enthusiast  
+<h1 align="center">👋 Hi, I'm Praveen Kumar</h1>
+<h3 align="center">Business Intelligence Analyst | Data Analyst | SQL & Power BI Specialist | AI & Automation Builder</h3>
 
-Welcome to my GitHub!
+<p align="center">
+  <a href="mailto:praveenkumar215342@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/praveen-kumar-analytics/">🔗 LinkedIn</a> •
+  📍 New Delhi, India · Open to Relocate
+</p>
 
-🚀 I’m a data-driven Business Intelligence & Data Analyst passionate about solving real-world business problems using analytics, automation, and AI.
+---
 
-## 💼 Professional Snapshot
+## 🧭 About Me
 
-🎯 Currently working as a Junior Business Intelligence Analyst at Pulp Strategy, contributing to data-driven decision-making and business insights.
+Analytics professional from **IIT Delhi** with **1 year of hands-on experience** delivering end-to-end BI solutions across SQL, Power BI, Python, Excel, and Automation. I don't just build dashboards — I architect data systems that drive real business decisions.
 
-📊 Strong hands-on experience in SQL, Power BI, Excel, and Python, focused on practical business applications.
+At **Pulp Strategy**, I've built automated BI infrastructure tracking **₹3.2M+ revenue** and **₹1.5M+ ad spend**, surfaced **3 critical revenue leakage points** through advanced SQL diagnostics, reduced reporting turnaround by **60%**, and eliminated **80% of manual effort** through automation workflows.
 
-🤖 Actively working on AI integrations, automation (n8n workflows), and data testing to improve operational efficiency.
+> *"Turning data into decisions and insights into impact."*
 
-📈 Interested in business analytics, product insights, and operations optimization (similar to roles like Amazon Freight & Blinkit category analytics).
+---
 
-## 🧠 Core Skills
+## 💼 Current Role
 
-Data Analysis & BI: SQL, Power BI, Excel
+**Jr. Business Intelligence Analyst @ Pulp Strategy** *(AI & Digital Consulting Agency)*
+`Jun 2025 – May 2026`
 
-Programming: Python (Pandas, NumPy – basics to intermediate)
+- 📊 Architected real-time **Power BI & Looker Studio dashboards** as single source of truth for ₹3.2M+ revenue, ₹1.5M+ ad spend, ROAS, CPA, CTR, CVR across **23 campaigns**
+- 🔍 Wrote advanced **SQL queries** (CTEs, Window Functions, multi-table JOINs, indexing) across 5+ platforms to uncover funnel drop-offs, cohort retention issues, and root cause diagnostics
+- 🐍 Built **Python ETL pipelines** (Pandas, NumPy) improving data accuracy by **80%** and enabling YoY benchmarking across multi-client reporting
+- 🤖 Deployed **8+ AI & automation workflows** (n8n + Power Automate) — ORM agents, SEO audit pipelines, LinkedIn enrichment, compliance reporting — with full QA, SOP, and audit trails
+- 📈 Conducted **user behavior analytics** via Hotjar & Meltwater — translated heatmaps, session recordings, and sentiment data into prioritized UI/UX and campaign recommendations
 
-Data Visualization: Dashboard design, KPI tracking
+---
 
-Tools & Concepts:
+## 🛠️ Technical Skills
 
-Data Cleaning & Transformation
+### 📊 SQL & Databases
+`MySQL` · `JOINs` · `CTEs` · `Window Functions (RANK, LAG, LEAD, ROW_NUMBER)` · `Query Optimization` · `Funnel & Cohort Analysis` · `Root Cause Diagnostics`
 
-Business Metrics & Reporting (WBR, dashboards)
+### 📈 BI & Visualization
+`Power BI` · `DAX` · `Power Query` · `Star Schema` · `RLS` · `Drill-through` · `Looker Studio` · `Advanced Excel` · `Google Sheets`
 
-Workflow Automation (n8n)
+### 🐍 Python & Data
+`Pandas` · `NumPy` · `ETL Pipeline Design` · `Statistical Analysis` · `Customer Segmentation` · `Matplotlib` · `Seaborn`
 
-AI Tools Integration (ChatGPT, Gemini, Perplexity)
+### 🤖 Automation & AI
+`n8n` · `Power Automate` · `LLM & API Integration` · `Facebook Graph API` · `Apify` · `SerpAPI` · `Webhook Design` · `SharePoint`
+
+### 📡 Marketing Analytics
+`GA4` · `Google Ads` · `Meta Ads` · `Search Console` · `Hotjar` · `Meltwater` · `Shopify` · `CRM`
+
+---
 
 ## 📂 Featured Projects
-🔍 Netflix Data Analysis
 
-Performed end-to-end data cleaning, analysis, and visualization to uncover viewer behavior trends.
+### 🏢 [Sales BI Hub](https://github.com/praveen-kumar-analytics) · *Power BI, DAX, Star Schema*
+Transformed 7,000+ multi-source records into an executive Power BI dashboard with Star Schema modeling, RLS, and 15+ drill-through KPI views — tracking YoY revenue, AOV, CLV, and MoM trends. Eliminated manual reporting dependency entirely.
 
-📦 Diwali Sales Analysis
+### 🍕 [Pizza Sales Intelligence](https://github.com/praveen-kumar-analytics) · *SQL, Cohort & Revenue Analysis*
+Analyzed 50,000+ transactional records using advanced MySQL — surfaced revenue trends, cohort retention, churn risk, and CLV metrics. Improved query performance by 20% and delivered stakeholder-ready strategic recommendations.
 
-Identified customer purchasing patterns, peak sales periods, and high-performing categories.
+### 🪔 [Diwali Sales Analysis](https://github.com/praveen-kumar-analytics) · *Python, EDA, Customer Segmentation*
+Cleaned 10,000+ raw records with Pandas/NumPy; ran Pareto analysis and statistical EDA identifying the **25–35 female cohort** and **Food & Electronics** as primary revenue drivers. Improved forecasting accuracy by 30%.
 
-🍕 Pizza Sales Dashboard (SQL + Power BI)
+### ☕ [Coffee Shop Dashboard](https://github.com/praveen-kumar-analytics) · *Excel, Automated Reporting*
+Built an automated Excel dashboard (Pivot Tables, Power Query, VLOOKUP, Slicers) monitoring Revenue, AOV, and Peak Hour trends with one-click refresh — cut manual reporting effort by 50%.
 
-Built an interactive dashboard showcasing revenue trends, peak hours, and top-selling products.
+---
 
-⚙️ Automation Workflows (n8n)
+## 🏅 Certifications
 
-Designed automated data pipelines and AI-based agents to streamline processes and improve efficiency.
+- 📜 **Deloitte Data Analytics Job Simulation** *(Dec 2025)*
+- 📊 **Power BI Micro Course** *(Jan–Feb 2025)*
+- 🗄️ **SQL & Relational Databases — IBM** *(May–Jun 2024)*
 
-## 💡 What I'm Currently Exploring
+---
 
-🤖 AI + Business: Integrating AI tools into real-world workflows
+## 💡 Currently Exploring
 
-📊 Advanced dashboarding & performance optimization
+- 🤖 LLM integrations into production BI workflows
+- 📊 Advanced DAX patterns & Power BI performance optimization
+- 🔄 End-to-end automation of multi-client reporting pipelines
+- 📦 Analytics in e-commerce, logistics & marketing ops
 
-🔄 Automation of reporting and business processes
+---
 
-📦 Data analytics in logistics, e-commerce, and operations
+## 🎓 Education
 
-## 🎯 Career Focus
+**B.Tech — Indian Institute of Technology Delhi (IIT Delhi)**
+Textile Engineering · 2021–2025
 
-I aim to grow into roles like:
+---
 
-Business Analyst
+## 🎯 Open To Roles
 
-Data Analyst
+`Business Intelligence Analyst` · `Data Analyst` · `Product Analyst` · `Marketing Analyst`
 
-Business Intelligence Analyst
+Strong focus on **impact-driven analytics**, real business problem-solving, and scalable BI systems.
 
-Product Analyst
+---
 
-with a strong focus on impact-driven analytics and decision-making.
+## 📫 Let's Connect
 
-## 📫 Connect With Me
+<p>
+  <a href="mailto:praveenkumar215342@gmail.com">📧 praveenkumar215342@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/praveen-kumar-analytics/">🔗 linkedin.com/in/praveen-kumar-analytics</a>
+</p>
 
-📧 Email: praveenkumar215342@gmail.com
+---
 
-🔗 LinkedIn: https://www.linkedin.com/in/praveen-kumar-analytics/
-
-## ✨ Fun Fact
-
-I enjoy turning complex data into simple, actionable insights and building systems that actually make business processes smarter 🚀
-
-"Turning data into decisions and insights into impact."
-
-⭐ If you like my work, feel free to explore my repositories and connect!
+<p align="center">⭐ If you find my work useful, feel free to explore my repositories and drop a star!</p>
