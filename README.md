@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Praveen Kumar</h1>
-<h3 align="center">Business Intelligence Analyst | Data Analyst | SQL, Python, Excel, Looker & Power BI | AI & Automation Builder</h3>
+<h3 align="center">BI & Data Analyst | SQL, Python, Excel, Looker & Power BI | AI & Automation Builder</h3>
 
 <p align="center">
   <a href="mailto:praveenkumar215342@gmail.com">📧 Email</a> •
