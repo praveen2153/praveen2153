@@ -13,7 +13,7 @@
 
 Analytics professional from **IIT Delhi** with **1 year of hands-on experience** delivering end-to-end BI solutions across SQL, Power BI, Python, Excel, and Automation. I don't just build dashboards — I architect data systems that drive real business decisions.
 
-At **Pulp Strategy**, I've built automated BI infrastructure tracking **₹3.2M+ revenue** and **₹1.5M+ ad spend**, surfaced **3 critical revenue leakage points** through advanced SQL diagnostics, reduced reporting turnaround by **60%**, and eliminated **80% of manual effort** through automation workflows.
+At **Pulp Strategy**, I've built automated BI infrastructure tracking **revenue** and **ad spend**, surfaced **3 critical revenue leakage points** through advanced SQL diagnostics, reduced reporting turnaround by **60%**, and eliminated **80% of manual effort** through automation workflows.
 
 > *"Turning data into decisions and insights into impact."*
 
@@ -24,7 +24,7 @@ At **Pulp Strategy**, I've built automated BI infrastructure tracking **₹3.2M+
 **Jr. Business Intelligence Analyst @ Pulp Strategy** *(AI & Digital Consulting Agency)*
 `Jun 2025 – May 2026`
 
-- 📊 Architected real-time **Power BI & Looker Studio dashboards** as single source of truth for ₹3.2M+ revenue, ₹1.5M+ ad spend, ROAS, CPA, CTR, CVR across **23 campaigns**
+- 📊 Architected real-time **Power BI & Looker Studio dashboards** as single source of truth for revenue, ad spend, ROAS, CPA, CTR, CVR across **campaigns**
 - 🔍 Wrote advanced **SQL queries** (CTEs, Window Functions, multi-table JOINs, indexing) across 5+ platforms to uncover funnel drop-offs, cohort retention issues, and root cause diagnostics
 - 🐍 Built **Python ETL pipelines** (Pandas, NumPy) improving data accuracy by **80%** and enabling YoY benchmarking across multi-client reporting
 - 🤖 Deployed **8+ AI & automation workflows** (n8n + Power Automate) — ORM agents, SEO audit pipelines, LinkedIn enrichment, compliance reporting — with full QA, SOP, and audit trails
