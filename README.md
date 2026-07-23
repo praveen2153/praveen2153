@@ -46,8 +46,11 @@ At **Pulp Strategy**, I've built automated BI infrastructure tracking **revenue*
 ### 🤖 Automation & AI
 `n8n` · `Power Automate` · `LLM & API Integration` · `Facebook Graph API` · `Apify` · `SerpAPI` · `Webhook Design` · `SharePoint`
 
-### 📡 Marketing Analytics
-`GA4` · `Google Ads` · `Meta Ads` · `Search Console` · `Hotjar` · `Meltwater` · `Shopify` · `CRM`
+### 📡 Advanced Excel 
+`SUMIF` . `SUMIFS` . `VLOOKUP` . `XLOOKUP` . `INDEX-MATCH` . `IF statements` . `DATEDIF` . `COUNTIF` . `COUNTIFS` . `AGGREGATE` . `IFERROR` . `text functions (LEFT, RIGHT, TRIM, SUBSTITUTE)` . `Pivot Tables` . `Power Query` . `Slicers` . `Conditional Formatting`  
+
+### 📡 Analytics
+`GA4` · `Search Console` · `Hotjar` · `Meltwater` · 
 
 ---
 
