@@ -50,7 +50,7 @@ At **Pulp Strategy**, I've built automated BI infrastructure tracking **revenue*
 `SUMIF` . `SUMIFS` . `VLOOKUP` . `XLOOKUP` . `INDEX-MATCH` . `IF statements` . `DATEDIF` . `COUNTIF` . `COUNTIFS` . `AGGREGATE` . `IFERROR` . `text functions (LEFT, RIGHT, TRIM, SUBSTITUTE)` . `Pivot Tables` . `Power Query` . `Slicers` . `Conditional Formatting`  
 
 ### 📡 Analytics
-`GA4` · `Search Console` · `Hotjar` · `Meltwater` · 
+`GA4` · `Search Console` · `Hotjar` · `Meltwater`
 
 ---
 
