@@ -63,7 +63,7 @@ Transformed 7,000+ multi-source records into an executive Power BI dashboard wit
 Analyzed 50,000+ transactional records using advanced MySQL - surfaced revenue trends, cohort retention, churn risk, and CLV metrics. Improved query performance by 20% and delivered stakeholder-ready strategic recommendations.
 
 ### 🪔 [Diwali Sales Analysis](https://github.com/praveen-kumar-analytics) · *Python, EDA, Customer Segmentation*
-Cleaned 10,000+ raw records with Pandas/NumPy; ran Pareto analysis and statistical EDA identifying the **25–35 female cohort** and **Food & Electronics** as primary revenue drivers. Improved forecasting accuracy by 30%.
+Cleaned 10,000+ raw records with Pandas/NumPy; ran Pareto analysis and statistical EDA identifying the **25-35 female cohort** and **Food & Electronics** as primary revenue drivers. Improved forecasting accuracy by 30%.
 
 ### ☕ [Coffee Shop Dashboard](https://github.com/praveen-kumar-analytics) · *Excel, Automated Reporting*
 Built an automated Excel dashboard (Pivot Tables, Power Query, VLOOKUP, Slicers) monitoring Revenue, AOV, and Peak Hour trends with one-click refresh - cut manual reporting effort by 50%.
@@ -73,8 +73,8 @@ Built an automated Excel dashboard (Pivot Tables, Power Query, VLOOKUP, Slicers)
 ## 🏅 Certifications
 
 - 📜 **Deloitte Data Analytics Job Simulation** *(Dec 2025)*
-- 📊 **Power BI Micro Course** *(Jan–Feb 2025)*
-- 🗄️ **SQL & Relational Databases - IBM** *(May–Jun 2024)*
+- 📊 **Power BI Micro Course** *(Jan-Feb 2025)*
+- 🗄️ **SQL & Relational Databases - IBM** *(May-Jun 2024)*
 
 ---
 
