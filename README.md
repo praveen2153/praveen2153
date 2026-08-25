@@ -24,6 +24,9 @@ At **Pulp Strategy**, I've built automated BI infrastructure tracking **revenue*
 **Sr. Executive @ Flipkart**
 `August 2026 – Present`
 
+- 📊 Managed FC operations, **MIS reporting**, dispatch, inventory, and warehouse performance while ensuring adherence to SOPs and operational SLAs.
+- 🔍 Analyzed operational data using **Excel/SQL** and prepared reports to identify bottlenecks, improve productivity, and support **data-driven decisions**.
+
 **Jr. Business Intelligence Analyst @ Pulp Strategy** *(AI & Digital Consulting Agency)*
 `Jun 2025 – May 2026`
 
