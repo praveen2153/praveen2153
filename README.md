@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:praveenkumar215342@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/praveen-kumar-analytics/">🔗 LinkedIn</a> •
-  📍 New Delhi, India · Open to Relocate
+  📍 Pune Maharastra, India · Open to Relocate
 </p>
 
 ---
@@ -19,7 +19,10 @@ At **Pulp Strategy**, I've built automated BI infrastructure tracking **revenue*
 
 ---
 
-## 💼 Current Role
+## 💼 Experience
+
+**Sr. Executive @ Flipkart**
+`August 2026 – Present`
 
 **Jr. Business Intelligence Analyst @ Pulp Strategy** *(AI & Digital Consulting Agency)*
 `Jun 2025 – May 2026`
