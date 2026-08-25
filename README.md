@@ -89,7 +89,7 @@ Built an automated Excel dashboard (Pivot Tables, Power Query, VLOOKUP, Slicers)
 
 ## 🎓 Education
 
-**B.Tech — Indian Institute of Technology Delhi (IIT Delhi)**
+**B.Tech - Indian Institute of Technology Delhi (IIT Delhi)**
 Textile Engineering · 2021-2025
 
 ---
