@@ -105,7 +105,7 @@ Strong focus on **impact-driven analytics**, real business problem-solving, and 
 ## 📫 Let's Connect
 
 <p>
-  <a href="mailto:praveenkumar215342@gmail.com">📧 praveenkumar215342@gmail.com</a><br>
+  <a href="mailto:praveen64510@gmail.com">📧 praveen64510@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/praveen-kumar-analytics/">🔗 linkedin.com/in/praveen-kumar-analytics</a>
 </p>
 
